@@ -110,5 +110,8 @@
 
 <!-- IMAGEN 4 (FINAL) -->
 <div class="slide" style="background-image:url('imagen4.jpeg')">
+  
+  const slides = document.querySelectorAll('.slide');
+  
 </body>
 </html>
